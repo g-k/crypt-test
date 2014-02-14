@@ -1,2 +1,2 @@
-secretfile filter=../git-crypt/git-crypt diff=../git-crypt/git-crypt
-*.key filter=../git-crypt/git-crypt diff=../git-crypt/git-crypt
+secretfile filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
